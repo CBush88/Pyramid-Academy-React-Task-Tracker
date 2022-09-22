@@ -51,6 +51,7 @@ body {
 
 .container {
   max-width: 66vh;
+  min-width: 30vh;
   margin: 1px auto;
   overflow: auto;
   min-height: 300px;
